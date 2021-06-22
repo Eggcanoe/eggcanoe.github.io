@@ -1,0 +1,19 @@
+h1 {
+    color:aqua;
+    background-color: black;
+}
+button {
+    display:inline-block;
+    padding:2px;
+    margin: 5px;
+    border-radius:10px;
+    font-weight:300;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 20px;
+    text-align:center;
+    background-color: #db41f0
+
+}
+button{
+background-color:#c83bdb ;
+}

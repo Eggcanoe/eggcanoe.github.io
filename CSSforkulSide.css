@@ -1,0 +1,38 @@
+#minkulenettside {
+        color: red;
+        font-family: fantasy;
+    }
+#ikketrykkpåmeg {color:green;}
+
+#Cool {
+        display:inline-block;
+        padding:2px;
+        margin: 5px;
+        border-radius:10px;
+        font-weight:300;
+        font-family: Comic Sans MS, Comic Sans, cursive;
+        font-size: 20px;
+        text-align:center;
+        background-color: #db41f0
+
+}
+#Cool:hover{
+    background-color:#c83bdb ;
+}
+
+#notcool{
+    display:inline-block;
+    padding:2px;
+    margin: 5px;
+    border-radius:10px;
+    font-weight:300;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 20px;
+    text-align:center;
+    background-color: #ff0000
+
+
+}
+#notcool:hover{
+    background-color: #f00000;
+}
